@@ -1,0 +1,16 @@
+{
+  "naruto": {
+    "title": "Naruto Hindi Dubbed",
+    "desc": "All episodes in Hindi",
+    "keywords": ["naruto", "uzumaki", "ninja", "naruto hindi"],
+    "link_480p": "https://example.com/naruto-480p",
+    "link_720p": "https://example.com/naruto-720p"
+  },
+  "deathnote": {
+    "title": "Death Note Hindi Dubbed",
+    "desc": "Complete Death Note Series",
+    "keywords": ["deathnote", "light", "l", "hindi deathnote"],
+    "link_480p": "https://example.com/deathnote-480p",
+    "link_720p": "https://example.com/deathnote-720p"
+  }
+}
